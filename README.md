@@ -74,26 +74,20 @@ var nhat = new Developer
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/minhnhatluongg">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=minhnhatluongg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-</a>
-<a href="https://github.com/minhnhatluongg">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnhatluongg&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=300" />
-</a>
-
+  <a href="https://github.com/minhnhatluongg">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=minhnhatluongg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/minhnhatluongg">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnhatluongg&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  </a>
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=minhnhatluongg&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+  <img src="https://streak-stats.demolab.com?user=minhnhatluongg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=minhnhatluongg&theme=tokyonight&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=minhnhatluongg&theme=tokyonight&no-frame=true&column=6&margin-w=8&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
