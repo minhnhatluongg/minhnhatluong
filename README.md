@@ -4,7 +4,7 @@
 
 **Backend Developer** · **.NET / C#** · **Clean Architecture**
 
-*Building scalable ERP systems at WinTech - Lạc Việt*
+*Building scalable ERP systems at WinTech - LOT Software*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=minhnhatluongg&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/minhnhatluongg)
 [![Website](https://img.shields.io/badge/Portfolio-minhnhatluong.win--tech.vn-0e75b6?style=flat-square&logo=google-chrome&logoColor=white)](https://minhnhatluong.win-tech.vn)
@@ -80,9 +80,7 @@ var nhat = new Developer
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=minhnhatluongg&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=minhnhatluongg&theme=tokyonight&no-frame=true&column=6&margin-w=8&no-bg=true&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" alt="GitHub Trophies" />
-</div>
+
 
 ## 🚀 Featured Projects
 
