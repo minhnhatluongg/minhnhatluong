@@ -21,7 +21,7 @@ var nhat = new Developer
 {
     Name       = "LuongMinhNhat",
     Location   = "Go Vap, Ho Chi Minh City 🇻🇳",
-    Company    = "WinTech - Lạc Việt",
+    Company    = "WinTech - Lot Software",
     Role       = "Backend Developer",
     Stack      = new[] { ".NET", "C#", "ASP.NET Core", "CQRS", "Clean Architecture" },
     Learning   = new[] { "Docker", "Kubernetes", "Redis", "Kafka", "RabbitMQ" },
